@@ -12,3 +12,7 @@ Create a new environment
 ```
 conda create -p venev python==3.7 -y
 ```
+
+To complete Docker and github action setup add secret keys in github repo in setting/actions
+
+-- get things secret keys from heroku
